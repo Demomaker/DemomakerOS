@@ -7,6 +7,10 @@ I followed a lot of tutorials to be able to make this without the use of an exte
 
 ![demomakerOSImage](https://user-images.githubusercontent.com/18319764/99870969-fd588580-2ba4-11eb-998f-f9f60f9745bc.PNG)
 
+### Video showing it working :
+
+https://youtu.be/6rk6gFiHtM8
+
 ### Main sources :
 
 https://www.youtube.com/watch?v=rr-9w2gITDM&list=PLBK_0GOKgqn3hjBdrf5zQ0g7UkQP_KLC3
@@ -20,6 +24,9 @@ J'ai suivi beaucoup de tutoriels pour être capable de faire ça sans utiliser d
 ### Image qui montre ceci en action :
 
 ![demomakerOSImage](https://user-images.githubusercontent.com/18319764/99870969-fd588580-2ba4-11eb-998f-f9f60f9745bc.PNG)
+
+### Vidéo qui montre ceci en action :
+https://youtu.be/6rk6gFiHtM8
 
 ### Sources principales :
 
